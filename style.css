@@ -1,0 +1,41 @@
+body{
+  background-color: hsl(233, 47%, 7%);
+  Font size: 15px;
+  margin: 0;
+}
+h1{
+  color:  hsl(0, 0%, 100%);
+  font-family: "Inter";
+  Weight: 400,700;
+}
+.highlight{
+  color: blue;
+  font-family: "inter";
+}
+p{
+  color: hsla(0, 0%, 100%, 0.75);
+}
+.stats{
+  color: hsl(0, 0%, 100%);
+}
+.stat-head{
+  color: hsl(0, 0%, 100%);
+}
+.container-1{
+  background-color: hsl(244, 38%, 16%);
+  width: 500px;
+  height: 400px;
+  display: inline-block;
+  padding: 20px;
+  box-sizing: border-box;
+  position: absolute;
+  top: 150px;
+  left: 200px;
+}
+
+.picture{
+  display: inline-block;
+  position: absolute;
+  top: 150px;
+  left: 700px;
+}
